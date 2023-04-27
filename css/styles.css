@@ -87,6 +87,7 @@ hr {
 .navigation .nav-brand {
     font-weight: bold;
     cursor: pointer;
+    /* text-align: center; */
 }
 
 .navigation .nav-pills {
@@ -278,6 +279,7 @@ table thead {
     }
 
     .navigation .nav-brand {
+        display: flex;
         font-weight: bold;
         text-align: center;
     }
